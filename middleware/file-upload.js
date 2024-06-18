@@ -37,6 +37,3 @@ module.exports = multer({
       }
     })
   });
-
-//   AWS_ACCESS_KEY_ID=AKIAIIJEDO6DNWI6PROA
-// AWS_SECRET_ACCESS_KEY=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
