@@ -1,0 +1,30 @@
+{
+  "name": "edu-tech-backend",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.761.0",
+    "axios": "^0.20.0",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "ejs": "~2.5.7",
+    "express": "~4.16.0",
+    "http-errors": "~1.6.2",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.20",
+    "moment": "^2.29.1",
+    "mongoose": "^5.5.2",
+    "morgan": "~1.9.0",
+    "multer": "^1.4.2",
+    "multer-s3": "^2.9.0"
+  },
+  "devDependencies": {
+    "dotenv": "^7.0.0",
+    "typescript": "^3.4.4"
+  }
+}
